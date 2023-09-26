@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! 
-I am a Ph.D. Candidate in Economics at the try this new thing <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> Click Link </a> [University of Michigan](https://lsa.umich.edu/econ/doctoral-program.html). 
+I am a Ph.D. Candidate in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. 
 
 EDUCATION
 ======
