@@ -23,8 +23,11 @@ EDUCATION
 ======
 
 Ph.D. in Economics 2024 (Expected)
+
 MA in Economics 
+
 MSc. in Economics
+
 BA in Economics
 
 
