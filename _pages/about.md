@@ -24,17 +24,17 @@ EDUCATION
 
 Ph.D. in Economics (Expected 2024)
 
-## University of Michigan
+### University of Michigan
 
 MA in Economics (2019)
 
-## University of Michigan
+### University of Michigan
 
 MSc. in Economics (2015)
 
-## Barcelona School of Economics
+### Barcelona School of Economics
 
 BA in Economics (2014)
 
-## Universitat Pompeu Fabra
+### Universitat Pompeu Fabra
 
