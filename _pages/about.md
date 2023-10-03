@@ -17,6 +17,7 @@ Secondary Field: Labor Economics.
 
 I am on the 2023-2024 Economics job market.
 
+Before moving to Ann Arbor to start the Ph.D. I worked as an intern at the research department of CaixaBank and as a research assistant at IESE Business School in Barcelona. 
 
 
 EDUCATION
@@ -37,4 +38,12 @@ EDUCATION
 - BA in Economics (2014)
 
   - Universitat Pompeu Fabra
+
+RESEARCH
+======
+
+
+
+TEACHING
+======
 
