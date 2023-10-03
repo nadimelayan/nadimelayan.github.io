@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "NEB"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,12 +22,13 @@ I am on the 2023-2024 Economics job market.
 EDUCATION
 ======
 
-Ph.D. in Economics 2024 (Expected)
+Ph.D. in Economics (Expected 2024)
+      University of Michigan
 
-MA in Economics 
+MA in Economics (2019)
 
-MSc. in Economics
+MSc. in Economics (2015)
 
-BA in Economics
+BA in Economics (2014)
 
 
