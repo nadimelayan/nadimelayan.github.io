@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Teaching experience 1"
 collection: teaching
-type: ""
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 
-location: ""
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 In my years in Michigan I discovered my passion for teaching. I taught undergraduate level courses during since 2018 including 2 Head positions. 
