@@ -39,5 +39,3 @@ RESEARCH
 ======
 
 ![](CF1.png)
-
-![Some Title](CF1.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
