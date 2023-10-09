@@ -39,3 +39,5 @@ RESEARCH
 ======
 
 ![](CF1.png)
+
+<img src="CF1.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
