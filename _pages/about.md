@@ -38,7 +38,7 @@ EDUCATION
 RESEARCH
 ======
 
-![Hello](profile_pic_Nadim.png)
+![](profile_pic_Nadim.png)
 
 
 
