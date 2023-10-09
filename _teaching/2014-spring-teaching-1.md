@@ -15,9 +15,7 @@ Stuent evaluations scores (median response)
 - "Nadim explained materials well" 4.78/5
 - "Nadim treated students with respect" 4.8/5
 - "Nadim was sensitive to multicultural issues in the classroom" 4.72/5
-- "Nadim handled questions well" 4.73/5
 - "Nadim seemed to enjoy teaching" 4.71/5
-- "Nadim was willing to meet and help students outside class" 4.7/5
 
   Overall median as an Instructor 4.75/5
   Overall for Course (not Instructor) 4.21/5
