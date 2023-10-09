@@ -38,7 +38,7 @@ EDUCATION
 RESEARCH
 ======
 
-![](CF1.png)
+![](CF1.png=100x20)
 
 
 
