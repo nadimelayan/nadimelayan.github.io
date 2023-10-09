@@ -49,5 +49,3 @@ Best comments received for each course
 
 - *"Nadim was one of the Best GSI I have had during my time at Michigan. He taught things clearly and was helpful when students had questions! He made discussion sections interesting and always presented the information clearly.
 Thanks for all the help and a great semester!"* **Fall 2018**
-
-gned in to 43 different slack teams
