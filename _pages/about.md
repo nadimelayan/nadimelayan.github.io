@@ -38,7 +38,7 @@ EDUCATION
 RESEARCH
 ======
 
-![](CF1_consumption.png)
+![](CF1.png)
 
 
 
