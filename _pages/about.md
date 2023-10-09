@@ -39,7 +39,3 @@ RESEARCH
 ======
 
 
-
-TEACHING
-======
-
