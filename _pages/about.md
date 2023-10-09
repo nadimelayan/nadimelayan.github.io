@@ -39,7 +39,6 @@ RESEARCH
 ======
 Strategic or scarred? Disparities in college enrollment and dropout response to macroeconomic conditions. [Job Market Paper]
 
-<img src="CF1.png" alt="Lifetime impacts of experiencing a recession around high school graduation" style="height: 200px; width:200px;"/> 
 ![](CF1.png)
 
 Recessions might create enduring scars on young individuals, notably during critical periods such as high school graduation and college enrollment. I investigate how educational choices amplify or mitigate these scarring effects across income levels. Low-income individuals face dual impacts from recession scars: increased likelihood of dropping out while enrolled, and enduring negative labor market entry effects. Conversely, high-income individuals strategically evade these repercussions, delaying labor market entry through timely college enrollment during economic downturns. Employing a dynamic model, I quantify the lifetime repercussions of experiencing a recession during these critical phases. The poorest individuals endure a 39\% reduction in lifetime utility if a recession occurs while they are enrolled in college. A recession that occurs around the time of high school graduation predominantly affects the middle-low income group, hindering their college attendance, resulting in a 19\% lifetime utility loss. High-income individuals exhibit resilience to these economic fluctuations.
