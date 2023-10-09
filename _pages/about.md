@@ -38,4 +38,6 @@ EDUCATION
 RESEARCH
 ======
 
+![alt text](profile_pic_Nadim.png)
+
 
