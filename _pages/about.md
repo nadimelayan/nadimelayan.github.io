@@ -40,5 +40,7 @@ RESEARCH
 
 ![](CF1.png=100x20)
 
-
+<p style="max-width: 50%; float: right;">
+![Alt Picture Text](CF1.png "The Caption Of Something")
+</p>
 
