@@ -1,3 +1,13 @@
+---
+title: ""
+collection: teaching
+type: ""
+permalink: /teaching/2014-spring-teaching-1
+venue: ""
+date: 
+location: ""
+---
+
 In my years in Michigan I discovered my passion for teaching. I taught undergraduate level courses during since 2018 including 2 Head positions. 
 
 Courses taught
