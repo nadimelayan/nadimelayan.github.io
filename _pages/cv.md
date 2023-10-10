@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="CV_2023.pdf" download="CV_2023.pdf">Download CV</a>
+![]([CV_Nadim.png](https://drive.google.com/file/d/1PWyxzNVv3R9QnfaeGsiRbrZ0Rs3nCZb1/view?usp=sharing)https://drive.google.com/file/d/1PWyxzNVv3R9QnfaeGsiRbrZ0Rs3nCZb1/view?usp=sharing)
 
 ![](CV_Nadim.png)
