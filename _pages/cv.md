@@ -12,4 +12,4 @@ redirect_from:
 
 CV
 ======
-
+![CV_Nadim_png]
