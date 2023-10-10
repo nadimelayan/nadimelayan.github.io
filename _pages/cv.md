@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Talks
+CV
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
+![CV](CV_2023.pdf)
