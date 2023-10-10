@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-![Download CV]([CV_Nadim.png](https://drive.google.com/file/d/1PWyxzNVv3R9QnfaeGsiRbrZ0Rs3nCZb1/view?usp=sharing)https://drive.google.com/file/d/1PWyxzNVv3R9QnfaeGsiRbrZ0Rs3nCZb1/view?usp=sharing)
+![Download CV here](https://drive.google.com/file/d/1PWyxzNVv3R9QnfaeGsiRbrZ0Rs3nCZb1/view?usp=drive_link)
 
 ![](CV_Nadim.png)
