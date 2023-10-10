@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1PWyxzNVv3R9QnfaeGsiRbrZ0Rs3nCZb1/view?usp=drive_link" target="_blank"> Download CV here </a> 
+<a href="https://drive.google.com/uc?export=download&id=1PWyxzNVv3R9QnfaeGsiRbrZ0Rs3nCZb1" target="_blank"> Download CV here </a> 
 
 ![](CV_Nadim.png)
