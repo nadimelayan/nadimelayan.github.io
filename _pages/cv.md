@@ -13,6 +13,3 @@ redirect_from:
 CV
 ======
 
-<embed src="CV_2023.pdf">
-
-Download file
