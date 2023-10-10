@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="CV_2023.pdf" download="CV_2023.pdf">download this</a>
+<a href="CV_2023.pdf" download="CV_2023.pdf">Download CV</a>
 
 ![](CV_Nadim.png)
