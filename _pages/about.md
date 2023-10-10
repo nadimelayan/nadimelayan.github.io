@@ -35,7 +35,7 @@ EDUCATION
 - BA in Economics (2014)
   - Universitat Pompeu Fabra
 
-RESEARCH (Working Papers)
+RESEARCH: WORKING PAPERS
 ======
 
 - **Strategic or scarred? Disparities in college enrollment and dropout response to macroeconomic conditions. [Job Market Paper]**
