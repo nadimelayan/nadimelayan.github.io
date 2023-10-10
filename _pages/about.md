@@ -17,23 +17,22 @@ Secondary Field: Labor Economics.
 
 I am on the 2023-2024 Economics job market.
 
-Before moving to Ann Arbor to start the Ph.D. I worked as an intern at the research department of CaixaBank and as a research assistant at IESE Business School in Barcelona. 
-
+Before moving to Ann Arbor to start the Ph.D. I worked as an intern at the research department of <a href="https://www.caixabankresearch.com/en" target="_blank"> CaixaBank </a> and as a research assistant at <a href="https://www.iese.edu/" target="_blank"> IESE Business School </a> in Barcelona. 
 
 EDUCATION
 ======
 
 - Ph.D. in Economics (Expected 2024)
-  - University of Michigan
+  - <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a> 
 
 - MA in Economics (2019)
-  - University of Michigan
+  - <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a> 
 
 - MSc. in International Trade, Finance and Development (2015)
-  - Barcelona School of Economics
+  - <a href="https://bse.eu/" target="_blank"> Barcelona School of Economics </a> 
 
 - BA in Economics (2014)
-  - Universitat Pompeu Fabra
+  - <a href="https://www.upf.edu/" target="_blank"> Universitat Pompeu Fabra </a> 
 
 RESEARCH: WORKING PAPERS
 ======
