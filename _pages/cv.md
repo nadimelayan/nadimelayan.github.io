@@ -13,4 +13,4 @@ redirect_from:
 CV
 ======
 
-![CV](CV_2023.pdf)
+<embed src="CV_2023.pdf" type="application/pdf">
