@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome! I am a Ph.D. Candidate in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. I am on the 2023-2024 Economics job market.
 
-Fields: Macroeconomics and International Economics.
+Fields: Macroeconomics.
 
-Secondary Field: Labor Economics.
+Secondary Field: International Economics and Labor Economics.
 
 I am a Catalan and a culer living in Ann Arbor. Before moving to the home of the Wolverines to start the Ph.D. I worked as an intern at the research department of <a href="https://www.caixabankresearch.com/en" target="_blank"> CaixaBank </a> and as a research assistant at <a href="https://www.iese.edu/" target="_blank"> IESE Business School </a> in Barcelona. 
 
