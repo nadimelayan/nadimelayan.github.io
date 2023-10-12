@@ -22,13 +22,13 @@ EDUCATION
 - Ph.D. in Economics (Expected 2024)
   - <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a> 
 
-- MA in Economics (2019)
+- M.A. in Economics (2019)
   - <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a> 
 
-- MSc. in International Trade, Finance and Development (2015)
+- M.Sc. in International Trade, Finance and Development (2015)
   - <a href="https://bse.eu/" target="_blank"> Barcelona School of Economics </a> 
 
-- BA in Economics (2014)
+- B.A. in Economics (2014)
   - <a href="https://www.upf.edu/" target="_blank"> Universitat Pompeu Fabra </a> 
 
 RESEARCH: WORKING PAPERS
