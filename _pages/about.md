@@ -14,7 +14,7 @@ Field: Macroeconomics.
 
 Secondary Fields: International Economics and Labor Economics.
 
-I am a Catalan and a culer living in Ann Arbor. Before moving to the home of the Wolverines to start the Ph.D. I worked as an intern at the research department of <a href="https://www.caixabankresearch.com/en" target="_blank"> CaixaBank </a> and as a research assistant at <a href="https://www.iese.edu/" target="_blank"> IESE Business School </a> in Barcelona. 
+Before moving to the home of the Wolverines to start the Ph.D. I worked as an intern at the research department of <a href="https://www.caixabankresearch.com/en" target="_blank"> CaixaBank </a> and as a research assistant at <a href="https://www.iese.edu/" target="_blank"> IESE Business School </a> in Barcelona. 
 
 EDUCATION
 ======
