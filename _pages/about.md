@@ -34,7 +34,7 @@ EDUCATION
 RESEARCH: WORKING PAPERS
 ======
 
-- **Strategic or scarred? Disparities in college enrollment and dropout response to macroeconomic conditions. [Job Market Paper] <a href="https://nadimelayan.github.io/MyWebsite/JMP_Nadim.pdf" download="CV_Nadim"> Download here </a>**
+- **Strategic or scarred? Disparities in college enrollment and dropout response to macroeconomic conditions. [Job Market Paper] <a href="https://nadimelayan.github.io/MyWebsite/JMP_Nadim.pdf" download="JMP_Nadim"> Download here </a>**
 
 ![](CF1.png)
 
