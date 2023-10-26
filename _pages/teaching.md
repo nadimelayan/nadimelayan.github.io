@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-In my years in Michigan I discovered my passion for teaching. I taught undergraduate level courses during since 2018 including 2 Head positions. <a href="https://nadimelayan.github.io/MyWebsite/teaching_reviews.pdf" download="teaching_reviews"> Download Teaching reviews here! </a>
+In my years in Michigan I have discovered my passion for teaching. I have taught 11 undergraduate level courses since 2018, including 2 Head positions. <a href="https://nadimelayan.github.io/MyWebsite/teaching_reviews.pdf" download="teaching_reviews"> Download Teaching reviews here! </a>
 
 Courses taught
 ======
