@@ -14,9 +14,9 @@ In my years in Michigan I have discovered my passion for teaching. I have taught
 Courses taught
 ======
 
-- Introduction to Macroeconomics
-- Introduction to Microeconomics
-- Intermediate Macroeconomics
+- Principles of Macroeconomics
+- Principles of Microeconomics
+- Intermediate Macroeconomic Theory
 
 Stuent evaluations scores (median response)
 ======
