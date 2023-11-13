@@ -40,7 +40,7 @@ RESEARCH: WORKING PAPERS
 
 Recessions create enduring effects, or scars, on young individuals' careers, notably when they occur around critical periods such as high school graduation and college enrollment. I investigate how educational choices amplify or mitigate these scarring effects across income levels. Low-income young people face dual scarring effects: increased likelihood of dropping out of college and enduring negative labor market entry effects. High-income young people strategically evade these repercussions, delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during these critical phases. The poorest individuals endure a 40% reduction in lifetime consumption if a recession occurs while they are enrolled in college. A recession that occurs around the time of high school graduation hinders the college attendance of the middle-to-low-income group, causing a 24% lifetime consumption loss.
 
-- **State dependent Okun's law: A selective labor hoarding approach**
+- **State dependent Okun's law: A selective labor hoarding approach <a href="https://nadimelayan.github.io/MyWebsite/SDOL.pdf" download="SDOL"> Download here </a>**
 
 ![](State_dependent.png)
 
