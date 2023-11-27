@@ -18,7 +18,7 @@ Courses taught
 - Principles of Microeconomics
 - Intermediate Macroeconomic Theory
 
-Stuent evaluations scores (median response)
+Student evaluations scores (median response)
 ======
 
 - "Overall, Nadim was an excellent teacher" 4.76/5
