@@ -28,8 +28,8 @@ Student evaluations scores (median response)
 - "Nadim was sensitive to multicultural issues in the classroom" 4.72/5
 - "Nadim seemed to enjoy teaching" 4.71/5
 
-- **Overall median as an Instructor 4.75/5**
-- **Overall for Course (not Instructor) 4.21/5**
+- **Overall median Nadim as an Instructor 4.75/5**
+- **Overall for Course (not Nadim as Instructor) 4.21/5**
 
 Best comments received for each course
 ======
