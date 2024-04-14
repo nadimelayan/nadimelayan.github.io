@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. Candidate in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. I am on the 2023-2024 Economics job market and I am currently accepting interviews. You can contact me at <a href = "mailto: nadime@umich.edu">nadime@umich.edu</a>. 
+Welcome! I am a Ph.D. Candidate in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. I am joining the Modeling Unit at the Banco Central de Chile next Fall as a Senior Economist. You can contact me at <a href = "mailto: nadime@umich.edu">nadime@umich.edu</a>. 
 
 Fields: Macroeconomics, Labor Economics and International Economics.
 
