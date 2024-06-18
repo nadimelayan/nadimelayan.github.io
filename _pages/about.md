@@ -42,7 +42,7 @@ Recessions create enduring effects, or scars, on young individuals' careers. I i
 
 ![](State_dependent.png)
 
-In this paper I show that Okun's Law, the relationship between changes in the unemployment rate and real GDP, is state dependent: the relationship is stronger during recessions. I hypothesize that this state dependency arises from firms engaging in selective labor hoarding. If firms hoard high-skilled workers outside of recessions to economize on training costs, the Okun relationship will be relatively flat in those times. Such labor hoarding becomes untenable during recessions, which produces a nonlinear response of unemployment. I build a dynamic model of directed search with heterogeneous firms, endogenous exit, and training costs that generates the nonlinear response of unemployment to changes in real GDP.
+ In this paper I show that Okun's Law, the relationship between changes in the unemployment rate and real GDP growth, is state dependent: the relationship is stronger during recessions. I hypothesize that this state dependency arises from firms engaging in selective labor hoarding. If firms hoard high-skilled workers outside of recessions to economize on training costs, the Okun relationship will be relatively flat in those times. Such labor hoarding becomes untenable during large recessions, which produces a nonlinear response of unemployment. I build a dynamic model of directed search with heterogeneous firms, endogenous exit, and training costs that generates the nonlinear response of unemployment to changes in real GDP.
 
 - **Global Supply Chains and regional shocks** *with Jose Ramon Moran*
 
