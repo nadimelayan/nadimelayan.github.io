@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a recent Ph.D. graduate in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. I am joining the Modeling Unit at the Banco Central de Chile next Fall as a Senior Economist. You can contact me at <a href = "mailto: nadime@umich.edu">nadime@umich.edu</a>. 
+Welcome! I am a Senior Economist at the Banco Central de Chile in the Monetary Polilcy Division. I am working in the Modeling Unit. I am a recent Ph.D. graduate in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. You can contact me at <a href = "mailto: nelayan@bcentral.cl">nelayan@bcentral.cl</a>. 
 
 Fields: Macroeconomics, Labor Economics and International Economics.
 
@@ -17,7 +17,7 @@ Before moving to the home of the Wolverines to start the Ph.D. I worked as an in
 EDUCATION
 ======
 
-- Ph.D. in Economics (Expected 2024)
+- Ph.D. in Economics (2024)
   - <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a> 
 
 - M.A. in Economics (2019)
