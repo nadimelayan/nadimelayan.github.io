@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Senior Economist at the Banco Central de Chile in the Monetary Polilcy Division. I am working in the Modeling Unit. I have just earned my Ph.D. in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. You can contact me at <a href = "mailto: nelayan@bcentral.cl">nelayan@bcentral.cl</a>. 
+Welcome! I am a Senior Economist at the Banco Central de Chile in the Monetary Polilcy Division. I am working in the Economic Modeling Department. I have just earned my Ph.D. in Economics at the <a href="https://lsa.umich.edu/econ/doctoral-program.html" target="_blank"> University of Michigan </a>. You can contact me at <a href = "mailto: nelayan@bcentral.cl">nelayan@bcentral.cl</a>. 
 
 Fields: Macroeconomics, Labor Economics and International Economics.
 
