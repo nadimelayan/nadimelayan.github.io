@@ -34,11 +34,15 @@ RESEARCH: WORKING PAPERS
 
 - **Strategic or Scarred? Disparities in College Enrollment and Dropout Response to Macroeconomic Conditions. [Job Market Paper] <a href="https://nadimelayan.github.io/MyWebsite/JMP_Nadim.pdf" download="JMP_Nadim"> Download here </a>**
 
-![](CF1.png)
+![](CF.png)
 
-Recessions create enduring effects, or scars, on young individuals' careers. I investigate how educational choices amplify or mitigate these scarring effects by income. Low-income young people face dual scarring effects: an increased likelihood of dropping out of college and enduring negative labor market entry effects. High- and middle-income young people strategically evade these repercussions by delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during these critical phases using a dynamic life-cycle model with educational choices calibrated to US data. I find that the negative consequences of recessions are largely concentrated on the poorest subset within the low-income group, who endure a 40% reduction in lifetime consumption if a recession occurs while they are enrolled in college. A recession that occurs around the time of high school graduation hinders the college attendance of the second poorest subset within the low-income group, causing a 24% lifetime consumption loss.
+Recessions create enduring effects, or scars, on young individuals’ careers. I investigate how educational choices amplify or mitigate these scarring effects by income. Low-income young people face dual scarring effects: an increased likelihood of dropping out of college and enduring negative labor market entry effects. High- and middle-income young people strategically evade these repercussions by delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during these critical phases using a dynamic life-cycle model with educational choices calibrated to US data. I find that the negative consequences of recessions are largely concentrated on the low-income group.
 
-- **State dependent Okun's law: A selective labor hoarding approach <a href="https://nadimelayan.github.io/MyWebsite/SDOL.pdf" download="SDOL"> Download here </a>**
+- **Human Capital Misallocation and General Equilibrium Effects in Chile** *with Agustín Díaz and Carla Varona*
+
+We analyze the general equilibrium effects of human capital misallocation in Chile. First, we utilize tax and educational records to estimate the proportion of educationally mis-matched individuals (high-ability individuals with low educational attainment). Second, we estimate the labor market returns on ability, educaiton, and human capital investment. Finally, we construct and calibrate a dynastic overlapping generations model with both private and public human capital investment to decompose the causes of educational mismatch and the general equilibrium effects of changes in sorting. 
+
+- **State dependent Okun's law: A selective labor hoarding approach**
 
 ![](State_dependent.png)
 
