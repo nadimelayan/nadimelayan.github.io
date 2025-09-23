@@ -40,7 +40,7 @@ Recessions create enduring effects, or scars, on young individuals’ careers. I
 
 - **Human Capital Misallocation and General Equilibrium Effects in Chile** *with Agustín Díaz and Carla Varona*
 
-We analyze the general equilibrium effects of human capital misallocation in Chile. First, we utilize tax and educational records to estimate the proportion of educationally mis-matched individuals (high-ability individuals with low educational attainment). Second, we estimate the labor market returns on ability, educaiton, and human capital investment. Finally, we construct and calibrate a dynastic overlapping generations model with both private and public human capital investment to decompose the causes of educational mismatch and the general equilibrium effects of changes in sorting. 
+We analyze the general equilibrium effects of human capital misallocation in Chile. First, we utilize tax and educational records to estimate the proportion of educationally mis-matched individuals (high-ability individuals with low educational attainment). Second, we estimate the labor market returns on ability, education, and human capital investment. Finally, we construct and calibrate a dynastic overlapping generations model with both private and public human capital investment to decompose the causes of educational mismatch and the general equilibrium effects of changes in sorting. 
 
 - **State dependent Okun's law: A selective labor hoarding approach**
 
