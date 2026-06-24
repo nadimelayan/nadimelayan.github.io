@@ -34,9 +34,7 @@ RESEARCH: PUBLICATIONS
 
 - **Strategic or Scarred? Disparities in College Enrollment and Dropout Response to Macroeconomic Conditions.** *forthcoming at Labour Economics* **<a href="https://nadimelayan.github.io/MyWebsite/JMP_Nadim.pdf" download="JMP_Nadim"> Download here </a>**
 
-![](CF.png)
-
-Recessions create enduring e ects, or scars, on young individuals' careers. I investigate how educational choices amplify or mitigate these scarring e ects by income. Low-income young people face dual scarring e ects: an increased likelihood of dropping out of college and enduring negative labor market entry e ects. High- and middle-income young people strategically evade these repercussions by delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during two critical phases (around high-school graduation and college attendance) using a dynamic lifecycle model with educational choices calibrated to US data. I  nd that the negative consequences of recessions are largely concentrated on the low-income group.
+<sup><sub>Recessions create enduring e ects, or scars, on young individuals' careers. I investigate how educational choices amplify or mitigate these scarring e ects by income. Low-income young people face dual scarring e ects: an increased likelihood of dropping out of college and enduring negative labor market entry e ects. High- and middle-income young people strategically evade these repercussions by delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during two critical phases (around high-school graduation and college attendance) using a dynamic lifecycle model with educational choices calibrated to US data. I  nd that the negative consequences of recessions are largely concentrated on the low-income group.</sub></sup>
 
 
 RESEARCH: WORKING PAPERS
@@ -47,8 +45,6 @@ RESEARCH: WORKING PAPERS
 We analyze the general equilibrium effects of human capital misallocation in Chile. First, we utilize tax and educational records to estimate the proportion of educationally mis-matched individuals (high-ability individuals with low educational attainment). Second, we estimate the labor market returns on ability, education, and human capital investment. Finally, we construct and calibrate a dynastic overlapping generations model with both private and public human capital investment to decompose the causes of educational mismatch and the general equilibrium effects of changes in sorting. 
 
 - **State dependent Okun's law: A selective labor hoarding approach**
-
-![](State_dependent.png)
 
  In this paper I show that Okun's Law, the relationship between changes in the unemployment rate and real GDP growth, is state dependent: the relationship is stronger during recessions. I hypothesize that this state dependency arises from firms engaging in selective labor hoarding. If firms hoard high-skilled workers outside of recessions to economize on training costs, the Okun relationship will be relatively flat in those times. Such labor hoarding becomes untenable during large recessions, which produces a nonlinear response of unemployment. I build a dynamic model of directed search with heterogeneous firms, endogenous exit, and training costs that generates the nonlinear response of unemployment to changes in real GDP.
 
