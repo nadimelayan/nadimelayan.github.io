@@ -9,14 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-WORKING PAPERS
+PUBLICATIONS
 ======
 
-- **Strategic or Scarred? Disparities in College Enrollment and Dropout Response to Macroeconomic Conditions.** *Revise and Resubmit at Labour Economics* **<a href="https://nadimelayan.github.io/MyWebsite/JMP_Nadim.pdf" download="JMP_Nadim"> Download here </a>**
+- **Strategic or Scarred? Disparities in College Enrollment and Dropout Response to Macroeconomic Conditions.** *forthcoming at Labour Economics* **<a href="https://nadimelayan.github.io/MyWebsite/JMP_Nadim.pdf" download="JMP_Nadim"> Download here </a>**
 
 ![](CF.png)
 
-Recessions create enduring effects, or scars, on young individuals’ careers. I investigate how educational choices amplify or mitigate these scarring effects by income. Low-income young people face dual scarring effects: an increased likelihood of dropping out of college and enduring negative labor market entry effects. High- and middle-income young people strategically evade these repercussions by delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during these critical phases using a dynamic life-cycle model with educational choices calibrated to US data. I find that the negative consequences of recessions are largely concentrated on the low-income group.
+Recessions create enduring e ects, or scars, on young individuals' careers. I investigate how educational choices amplify or mitigate these scarring e ects by income. Low-income young people face dual scarring e ects: an increased likelihood of dropping out of college and enduring negative labor market entry e ects. High- and middle-income young people strategically evade these repercussions by delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during two critical phases (around high-school graduation and college attendance) using a dynamic lifecycle model with educational choices calibrated to US data. I  nd that the negative consequences of recessions are largely concentrated on the low-income group.
+
+
+WORKING PAPERS
+======
 
 - **Human Capital Misallocation and General Equilibrium Effects in Chile** *with Agustín Díaz and Carla Varona*
 
