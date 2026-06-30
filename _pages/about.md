@@ -32,7 +32,7 @@ EDUCATION
 RESEARCH: PUBLICATIONS
 ======
 
-- **Strategic or Scarred? Disparities in College Enrollment and Dropout Response to Macroeconomic Conditions.** *forthcoming at Labour Economics* **<a href="https://nadimelayan.github.io/MyWebsite/JMP_Nadim.pdf" download="JMP_Nadim"> Download here </a>**
+- **Strategic or Scarred? Disparities in College Enrollment and Dropout Response to Macroeconomic Conditions.** *forthcoming at Labour Economics* **<a href="https://www.sciencedirect.com/science/article/pii/S0927537126000801" Link </a>**
 
 <sup><sub>Recessions create enduring e ects, or scars, on young individuals' careers. I investigate how educational choices amplify or mitigate these scarring e ects by income. Low-income young people face dual scarring e ects: an increased likelihood of dropping out of college and enduring negative labor market entry e ects. High- and middle-income young people strategically evade these repercussions by delaying labor market entry through timely college enrollment during economic downturns. I quantify the lifetime repercussions of experiencing a recession during two critical phases (around high-school graduation and college attendance) using a dynamic lifecycle model with educational choices calibrated to US data. I  nd that the negative consequences of recessions are largely concentrated on the low-income group.</sub></sup>
 
